@@ -55,19 +55,62 @@
 
 </div>
 
-## 🚀 What I'm Building
 
-*More projects and details coming soon.*
+## 🚀 Featured Projects
 
-<!-- We'll add your featured project cards here next. -->
+<div align="center">
+
+*Projects where I turn ideas into practical solutions.*
+
+</div>
+
+---
+
+### 🛍️ Genzee — E-commerce Web App
+
+A Zimbabwe-focused social-shopping storefront concept designed to connect social media discovery with a structured online shopping experience.
+
+**Focus areas:** E-commerce · Java · Spring Boot · React
+
+<a href="https://genzee-website-e-commerce-full-func.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-047857?style=for-the-badge" alt="Visit Genzee website"/>
+</a>
+<a href="https://github.com/SunshineXoxo/Genzee-Website-e-commerce-full-functional-webapp-">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-101820?style=for-the-badge&logo=github" alt="Genzee source code"/>
+</a>
+
+---
+
+### 📊 Kuwana — Telecom Comparison Dashboard
+
+A React prototype that compares telecom offers using user-selected priorities and a monthly budget. It explains why an offer is recommended instead of showing a recommendation without context.
+
+**Focus areas:** React · JavaScript · UI Development · Recommendation Logic
+
+<a href="https://github.com/SunshineXoxo/Kuwana">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-047857?style=for-the-badge&logo=github" alt="Kuwana repository"/>
+</a>
+
+---
+
+### ☁️ Cloud Engineer Portfolio
+
+My personal portfolio project for presenting my cloud engineering journey, technical interests and development work.
+
+**Focus areas:** HTML · CSS · JavaScript · Cloud Engineering
+
+<a href="https://github.com/SunshineXoxo/Cloud-Engineer-Portfolio">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-047857?style=for-the-badge&logo=github" alt="Cloud Engineer Portfolio repository"/>
+</a>
 
 ---
 
 <div align="center">
 
-**Building my future, one commit at a time.** ✨
+*Building, learning, and improving — one project at a time.* ✨
 
 </div>
+
 
 
 <!--
