@@ -1,15 +1,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,100:047857&height=200&section=header&text=Sunshine&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20in%20Progress%20%7C%20Developer&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,55:064E3B,100:047857&height=220&section=header&text=Sunshine&fontSize=58&fontColor=F8FAFC&fontAlignY=35&desc=Cloud%20Engineering%20%7C%20Software%20Development&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Sunshine's developer banner"/>
 
-# Hey, I'm Sunshine 👋
+<br/>
 
-### ☁️ Cloud Engineering · Software Development · DevOps
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=B9A3FF&center=true&vCenter=true&width=600&lines=Building+in+the+cloud+%E2%98%81%EF%B8%8F;Learning.+Building.+Improving.;Turning+ideas+into+working+systems." alt="Animated developer introduction"/>
 
-*Learning, building, and turning ideas into working systems.*
+<br/>
+
+**Cloud Engineering · DevOps · Software Development**
+
+*Curious mind. Practical projects. Continuous growth.*
 
 </div>
+
 
 ---
 
