@@ -25,13 +25,23 @@
 - 🚀 Learning by working on real-world projects.
 - 🌱 Growing one project and one commit at a time.
 
-## 🛠️ My Tech Stack
+
+## ⚙️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flutter,git,github&theme=dark" alt="Technology stack" />
+*Tools I'm learning and using to build real-world projects.*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nextjs,spring,flutter,git,github&theme=dark" alt="Java, Python, HTML, CSS, JavaScript, React, Next.js, Spring Boot, Flutter, Git and GitHub" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cloud%20Engineering-Learning-047857?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Engineering" />
 
 </div>
+
 
 ## 🐍 My Contribution Snake
 
