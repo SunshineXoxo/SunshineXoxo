@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,55:064E3B,100:047857&height=220&section=header&text=Sunshine&fontSize=58&fontColor=F8FAFC&fontAlignY=35&desc=Cloud%20Engineering%20%7C%20Software%20Development&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Sunshine's developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,55:064E3B,100:047857&height=220&section=header&text=Makanaka&fontSize=58&fontColor=F8FAFC&fontAlignY=35&desc=Cloud%20Engineering%20%7C%20Software%20Development&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Sunshine's developer banner"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Sunshine** — a cloud computing student passionate about building useful software and learning how to deploy, manage, and scale applications.
+Hi, I'm **Makanaka** — a cloud computing student passionate about building useful software and learning how to deploy, manage, and scale applications.
 
 - ☁️ Exploring cloud engineering and DevOps.
 - 💻 Building projects to strengthen my software development skills.
